@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">LotFinder</string>
+    <string name="app_name">LOTFINDER</string>
+    <string name="app_subtitle">Find the Most Relevant Lot for You!</string>
+    <string name="enter_location">Enter Desired Location</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="filter_icon">Filter Icon</string>
+    <string name="dropdown_icon">Dropdown Arrow</string>
+    <string name="sort_by">Sort By</string>
+    <string name="find_parking">Find Parking</string>
 </resources>
